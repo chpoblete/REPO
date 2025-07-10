@@ -1,1 +1,2 @@
-wolcome REPO
+FROM ubuntu
+CMD ["echo", "Welcome REPO"]
